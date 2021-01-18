@@ -33,7 +33,6 @@
 - 可以在发布页找到自己的操作系统平台下载，获取自行下载源码编译
 
 ## 技术交流群
-- +q 173703938
 - ![微信交流群](https://github.com/liwang0113/FNSecKillMaoTai/blob/main/WechatIMG1019.jpeg)
 
 
